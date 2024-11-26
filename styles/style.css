@@ -1,0 +1,25 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1,h2,h3,h4,h5{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: 60px;
+}
+.texto-custom{
+    color: red;
+    background-color: blue;
+    margin-bottom: 100px;
+}
+.texto-custom-dos{
+    color: aquamarine;
+    background-color: black;
+}
+
+#identificador-parrafo{
+    margin-top: 70px;
+}
